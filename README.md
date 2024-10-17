@@ -54,6 +54,6 @@ Corporación Agrícola JJM, especializados en la producción y exportación de f
 - 📞: `Not available at the moment`
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfr3XD&layout=compact&theme=dark&hide_border=true)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Alfr3XD&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoAlessandro&layout=compact&theme=dark&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AlfredoAlessandro&show_icons=true&hide_border=true&theme=dark)
 
